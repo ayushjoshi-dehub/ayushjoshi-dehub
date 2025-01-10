@@ -13,7 +13,7 @@
  
  🔭 I’m currently studying computer engineering
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Android Development **
 
 💬 Ask me about Anything
 
