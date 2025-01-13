@@ -22,7 +22,7 @@
 </div>
  
 <div 
-    <h3 align="left">Connect with me:</h3>
+  <br/>  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushjoshi" height="30" width="40" /></a>
 <a href="https://fb.com/ayushjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushjoshi" height="30" width="40" /></a>
@@ -32,6 +32,7 @@
 </div>
 
 <hr/>
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -61,6 +62,12 @@
 <hr/>
 
 <br/>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushjoshi-dehub&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
+    <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  
+</div>
+
 
 <div align="center">
 <a href='https://ko-fi.com/your-ko-fi-page' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
