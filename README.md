@@ -24,7 +24,7 @@
 <div 
   <br/>  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ayush-joshi-131052259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushjoshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-joshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushjoshi" height="30" width="40" /></a>
 <a href="https://fb.com/ayushjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushjoshi" height="30" width="40" /></a>
 <a href="https://instagram.com/joshiayush78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshiayush78" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/let's invent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="let's invent" height="30" width="40" /></a>
