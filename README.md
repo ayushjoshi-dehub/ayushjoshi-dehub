@@ -21,8 +21,7 @@
 
 
 
-[![](https://visitcount.it ?id=ayushjoshi-dehub&icon=0&c https://visitcount.itsvg.in)
-</div>
+
  
 <div 
   <br/>  <h3 align="left">Connect with me:</h3>
