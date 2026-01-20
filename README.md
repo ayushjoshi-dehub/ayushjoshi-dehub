@@ -40,7 +40,6 @@ GitHub
 
 Stats:
 
-6
 
 .shields.io/badge/python-3670A0?style
 
@@ -56,7 +55,7 @@ ffdd54)
 
 
 
-![](https://github-readme-stats.vercel .app/api/top-langs/?username=Apil -Maraseni&theme=dark&hide_border=false& include_all_commits=false&count_private= false&layout=compact)
+![](https://github-readme-stats.vercel .app/api/top-langs/?username=ayushjoshi-dehub &theme=dark&hide_border=false& include_all_commits=false&count_private= false&layout=compact)
 
 
 
