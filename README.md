@@ -1,6 +1,6 @@
 <!--==================== HEADER ====================-->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Ayush%20Joshi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Computer%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=7000ff,ff007f&text=Ayush%20Joshi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Computer%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 </p>
 
 <p align="center">
