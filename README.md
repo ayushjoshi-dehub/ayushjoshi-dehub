@@ -142,6 +142,15 @@
 </p>
 
 ---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ayushjoshi-dehub/ayushjoshi-dehub/output/github-contribution-grid-snake-dark.svg">
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ayushjoshi-dehub/ayushjoshi-dehub/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <!-- Connect -->
 <div style="background: rgba(255, 255, 255, 0.08); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.18); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(255,255,255,0.3); padding: 24px; margin: 20px 0; text-align: center;">
@@ -154,11 +163,6 @@
 </div>
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushjoshi-dehub/ayushjoshi-dehub/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
 <!-- Quote -->
 <div style="background: rgba(255, 255, 255, 0.08); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.18); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(255,255,255,0.3); padding: 30px; margin: 20px 0; text-align: center;">
