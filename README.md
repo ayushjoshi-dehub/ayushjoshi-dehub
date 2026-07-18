@@ -115,23 +115,6 @@
 
 ---
 
-<!-- Featured Projects -->
-<div style="background: rgba(255, 255, 255, 0.08); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.18); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(255,255,255,0.3); padding: 24px; margin: 20px 0;">
-  <h2 style="margin-top:0;">🚀 Featured Projects</h2>
-  <table>
-    <thead><tr><th>Project</th><th>Description</th></tr></thead>
-    <tbody>
-      <tr><td><strong>📈 NEPSE AI</strong></td><td>AI-powered stock market prediction & analytics</td></tr>
-      <tr><td><strong>🚌 Anthola</strong></td><td>Smart Bus Booking Platform</td></tr>
-      <tr><td><strong>📱 Android Apps</strong></td><td>Kotlin & Jetpack Compose</td></tr>
-      <tr><td><strong>🤖 Machine Learning</strong></td><td>Deep Learning & Computer Vision</td></tr>
-      <tr><td><strong>🌍 Open Source</strong></td><td>Personal and community projects</td></tr>
-    </tbody>
-  </table>
-</div>
-
----
-
 # 📈 GitHub Analytics
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ayushjoshi-dehub&theme=tokyonight&hide_border=true"/>
