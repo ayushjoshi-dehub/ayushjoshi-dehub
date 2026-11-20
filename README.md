@@ -1,10 +1,7 @@
 
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ayushjoshi-dehub&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=ayushjoshi-dehub&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Ayush Joshi" />
-  </picture>
+  <img src="https://www.gitskins.com/api/section/hero?username=ayushjoshi-dehub&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81381418%3Fu%3Dd20862f0c7699ed3bbafeb589f3957c449c22b14%26v%3D4" alt="ayushjoshi-dehub hero visual" />
 </p>
 
 <p align="center">
@@ -33,11 +30,7 @@
 
 <br clear="right"/>
 
-## Current Focus
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=ayushjoshi-dehub&theme=aurora&items=Artificial%20Intelligence::Building%20smarter%20ML-powered%20apps|Full%20Stack%20Dev::Shipping%20end-to-end%20web%20experiences|Android%20Dev::Crafting%20mobile%20apps%20that%20feel%20native" width="100%" alt="Current focus areas for Ayush Joshi" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:2c5364,100:00c6ff&width=1000&animation=twinkling" width="100%"/>
@@ -85,15 +78,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:2c5364,100:00c6ff&width=1000&animation=twinkling" width="100%"/>
 </p>
 
-## Selected Projects
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=ayushjoshi-dehub&theme=aurora" width="100%" alt="Selected projects by Ayush Joshi" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0f2027,50:2c5364,100:00c6ff&width=1000&animation=twinkling" width="100%"/>
-</p>
 
 ## Connect With Me
 
